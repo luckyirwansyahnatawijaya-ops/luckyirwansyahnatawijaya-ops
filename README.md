@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Banner" />
+  <img src="https://github.com/luckyirwansyahnatawijaya-ops/luckyirwansyahnatawijaya-ops/blob/main/banner.svg?raw=true" width="100%" alt="Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Aspiring+Red+Team+%26+Penetration+Tester;Informatics+Engineering+Student+%40+UNIKOM;Frontend+Web+Developer+(HTML%2C+CSS%2C+JS);Linux+%26+Network+Security+Enthusiast" alt="Typing SVG" />
@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/luckyin._" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%40luckyin._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://s.id/luckyin" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio_%26_Links-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
