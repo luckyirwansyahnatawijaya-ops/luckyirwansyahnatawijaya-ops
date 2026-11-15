@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/luckyirwansyahnatawijaya-ops/luckyirwansyahnatawijaya-ops/blob/main/gemini-svg.svg?raw=true" width="100%" alt="Banner" />
+  <img src="Screenshot%202026-11-15%20191243.png" width="100%" alt="Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Aspiring+Red+Team+%26+Penetration+Tester;Informatics+Engineering+Student+%40+UNIKOM;Frontend+Web+Developer+(HTML%2C+CSS%2C+JS);Linux+%26+Network+Security+Enthusiast" alt="Typing SVG" />
