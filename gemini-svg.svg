@@ -1,0 +1,41 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="55%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#3b0d14" />
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ef4444" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="250" rx="14" fill="url(#bgGrad)" />
+  <rect width="1200" height="250" rx="14" fill="url(#grid)" />
+  <rect x="1" y="1" width="1198" height="248" rx="13" stroke="#ef4444" stroke-opacity="0.3" stroke-width="1.5" />
+
+  <circle cx="36" cy="32" r="6" fill="#ef4444" />
+  <circle cx="56" cy="32" r="6" fill="#f59e0b" />
+  <circle cx="76" cy="32" r="6" fill="#10b981" />
+  <text x="100" y="37" fill="#64748b" font-family="monospace" font-size="14">lucky@unikom:~/profile</text>
+
+  <path d="M 28 70 L 28 55 L 48 55" stroke="#ef4444" stroke-width="2" fill="none" />
+  <path d="M 1172 70 L 1172 55 L 1152 55" stroke="#ef4444" stroke-width="2" fill="none" />
+  <path d="M 28 195 L 28 210 L 48 210" stroke="#ef4444" stroke-width="2" fill="none" />
+  <path d="M 1172 195 L 1172 210 L 1152 210" stroke="#ef4444" stroke-width="2" fill="none" />
+
+  <text x="600" y="125" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="44" font-weight="bold" letter-spacing="2">
+    LUCKY IRWANSYAH NATAWIJAYA
+  </text>
+
+  <rect x="250" y="145" width="700" height="2" fill="url(#accentLine)" />
+
+  <text x="600" y="178" text-anchor="middle" fill="#fca5a5" font-family="monospace" font-size="17" font-weight="bold" letter-spacing="3">
+    INFORMATICS ENGINEERING  //  CYBER SECURITY & WEB DEV
+  </text>
+</svg>
