@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:dc2626&height=210&section=header&text=Lucky%20Irwansyah%20Natawijaya&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20%2F%2F%20CYBER%20SECURITY%20%26%20WEB%20DEV&descSize=14&descAlignY=58" width="100%" alt="Banner" />
+  <img src="./banner.svg" width="100%" alt="Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Aspiring+Red+Team+%26+Penetration+Tester;Informatics+Engineering+Student+%40+UNIKOM;Frontend+Web+Developer+(HTML%2C+CSS%2C+JS);Linux+%26+Network+Security+Enthusiast" alt="Typing SVG" />
@@ -41,9 +41,9 @@ Hi! I'm **Lucky**, an Informatics Engineering student at **UNIKOM** passionate a
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Cyber Security & Labs** | Web App Pentesting, Vulnerability Assessment, Hack The Box, Cisco NetAcad |
-| **Networking & OS** | Linux (Debian & Ubuntu), Windows 11, Cisco Packet Tracer |
+| **Networking & OS** | Linux (Debian), Windows 11, Cisco Packet Tracer |
 | **Frontend & Scripting** | HTML5, CSS3, JavaScript, Python, Java |
-| **Dev & Design Tools** | Git, GitHub, VS Code, NetBeans IDE, Figma, Canva |
+| **Dev & Design Tools** | GitHub, VS Code, Apache NetBeans, Figma, Canva |
 
 ---
 
