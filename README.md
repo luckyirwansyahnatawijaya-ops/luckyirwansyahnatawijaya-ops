@@ -42,7 +42,7 @@ Hi! I'm **Lucky**, an Informatics Engineering student at **UNIKOM** passionate a
 | :--- | :--- |
 | **Cyber Security & Labs** | Web App Pentesting, Vulnerability Assessment, Hack The Box, Cisco NetAcad |
 | **Networking & OS** | Linux (Debian), Windows 11, Cisco Packet Tracer |
-| **Frontend & Scripting** | HTML5, CSS3, JavaScript |
+| **Frontend & Scripting** | HTML5, CSS3, JavaScript, Python |
 | **Dev & Design Tools** | GitHub, VS Code, Apache NetBeans, Figma, Canva |
 
 ---
