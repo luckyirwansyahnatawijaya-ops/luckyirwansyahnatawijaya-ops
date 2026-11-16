@@ -28,7 +28,7 @@
 Name      : Lucky Irwansyah Natawijaya
 Major     : Informatics Engineering — Universitas Komputer Indonesia (UNIKOM)
 Focus     : Offensive Security (Red Team & Web Pentesting) | Frontend Web Dev
-Platforms : Hack The Box • Cisco NetAcad • Jagoan Siber • CyberWarFare Labs
+Platforms : Hack The Box • Cisco NetAcad • Cyber Studio • Jagoan Siber • CyberWarFare Labs
 Goal      : Building secure web systems & breaking things ethically
 ```
 
